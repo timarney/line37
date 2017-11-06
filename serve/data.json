@@ -61,7 +61,7 @@
       "name": "Quinte Arts Council",
       "tech": "WordPress, Stripe, JavaScript",
       "notes":
-        "<a href=\"http://workwiththey.com\" title=\"Work With They\" el=\"noopener\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "bionx",
