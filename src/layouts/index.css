@@ -753,9 +753,33 @@ ul.custom-bullet > li:before {
   fill: rgb(95, 206, 177);
 }
 
+.btn{
+  color:#fff;
+  background-color: #5fceb1;
+  transition: all 1s ease;
+}
+
+.btn:hover{
+  opacity: 0.8;
+  transform: translateY(-2px);
+}
+
+
+
 @media only screen and (min-width: 700px) {
   .project {
     min-width: 560px;
+  }
+
+  
+
+  .project-img {
+    width: 560px;
+    height: 333px;
+  }
+
+  .project-img:hover {
+    opacity: 0.8;
   }
 
   .skills-list {

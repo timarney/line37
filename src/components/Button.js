@@ -6,10 +6,9 @@ class StyledButton extends Component {
     return (
       <div>
         <a
+          className="btn"
           style={{
-            backgroundColor: "#5fceb1",
             textDecoration: "none",
-            color: "#fff",
             borderRadius: "2px",
             padding: "12px 20px",
             marginLeft: "50px",
