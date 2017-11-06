@@ -7,7 +7,7 @@
       "name": "Rocking Fit",
       "tech": "WordPress, JavaScript",
       "notes":
-        "<a href=\"http://workwiththey.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "hsgo",
@@ -16,7 +16,7 @@
       "name": "HollywoodSuite GO",
       "tech": "WordPress, Akamai, JavaScript",
       "notes":
-        "<a href=\"http://workwiththey.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "agphotos",
@@ -30,19 +30,19 @@
       "key": "ona",
       "url": "https://ontariosnuclearadvantage.com",
       "featured": "true",
-      "name": "Agway Colour Application",
-      "tech": "React, Redux",
-      "notes": "Glassroot Creative Media"
+      "name": "Ontario's Nuclear Advantage",
+      "tech": "WordPress, JavaScript",
+      "notes":
+        "<a href=\"http://bigredoak.com\" title=\"Big Red Oak\" rel=\"noopener\" target=\"_blank\">Big Red Oak</a> "
     },
     {
       "key": "aca",
       "url":
         "http://architects.agwaymetals.com/agricultural-colour-application/#/panel/colours/diamond-rib/century-rib/dark-red/green/white-white/a/?_k=z0uoiu",
       "featured": "true",
-      "name": "Ontario's Nuclear Advantage",
-      "tech": "WordPress, JavaScript",
-      "notes":
-        "<a href=\"http://bigredoak.com\" target=\"_blank\">Big Red Oak</a> "
+      "name": "Agway Colour Application",
+      "tech": "React, Redux",
+      "notes": "Glassroot Creative Media"
     },
 
     {
@@ -52,7 +52,7 @@
       "name": "Pickering 2024",
       "tech": "WordPress, JavaScript",
       "notes":
-        "<a href=\"http://bigredoak.com\" target=\"_blank\">Big Red Oak</a> "
+        "<a href=\"http://bigredoak.com\" title=\"Big Red Oak\" rel=\"noopener\" target=\"_blank\">Big Red Oak</a> "
     },
 
     {
@@ -61,7 +61,7 @@
       "name": "Quinte Arts Council",
       "tech": "WordPress, Stripe, JavaScript",
       "notes":
-        "<a href=\"http://workwiththey.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://workwiththey.com\" title=\"Work With They\" el=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "bionx",
@@ -69,7 +69,7 @@
       "name": "Bionx",
       "tech": "WordPress, JavaScript, Ember",
       "notes":
-        "<a href=\"http://www.tenfootstudios.com\" target=\"_blank\">Ten Foot Studios</a> "
+        "<a href=\"http://www.tenfootstudios.com\" title=\"Ten Foot Studios\" rel=\"noopener\" target=\"_blank\">Ten Foot Studios</a> "
     },
     {
       "key": "suntouch",
@@ -77,7 +77,7 @@
       "name": "Sun Touch",
       "tech": "Backbone.js",
       "notes":
-        "<a href=\"http://www.www.carbonatedinc.com\" target=\"_blank\">Carbonated Interactive </a> "
+        "Carbonated Interactive"
     },
     {
       "key": "hws",
@@ -85,7 +85,7 @@
       "name": "HollywoodSuite",
       "tech": "WordPress, BroadView, JavaScript",
       "notes":
-        "<a href=\"http://workwiththey.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "katie",
@@ -93,7 +93,7 @@
       "name": "Katie Couric",
       "tech": "WordPress, JavaScript",
       "notes":
-        "<a href=\"http://workwiththey.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "lsc",
@@ -101,7 +101,7 @@
       "name": "Leading Spas of Canada",
       "tech": "WordPress, HTML, CSS, JavaScript",
       "notes":
-        "<a href=\"http://tenfootstudios.com\" target=\"_blank\">Ten Foot Studios</a> "
+        "<a href=\"http://tenfootstudios.com\" title=\"Tewn Foot Studios\" rel=\"noopener\" target=\"_blank\">Ten Foot Studios</a> "
     },
     {
       "key": "savvy",
@@ -109,7 +109,7 @@
       "name": "Brittany Deal",
       "tech": "WordPress, JavaScript",
       "notes":
-        "<a href=\"http://workwiththey.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "rocco",
@@ -117,7 +117,7 @@
       "name": "David Rocco",
       "tech": "WordPress, JavaScript",
       "notes":
-        "<a href=\"http://workwiththey.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "fly-singapore",
@@ -125,7 +125,7 @@
       "name": "Very, Very Singapore Stopovers",
       "tech": "WordPress, HTML, CSS, JavaScript",
       "notes":
-        "<a href=\"http://stonecanoe.ca\" target=\"_blank\">Stone Canoe</a> "
+        "<a href=\"http://stonecanoe.ca\" title=\"Stone Canoe\" rel=\"noopener\" target=\"_blank\">Stone Canoe</a> "
     },
     {
       "key": "tony-wrighton",
@@ -133,7 +133,7 @@
       "name": "Tony Wrighton",
       "tech": "WordPress, s2 Member, JavaScript",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "candice-kumai",
@@ -141,7 +141,7 @@
       "name": "Candice Kumai",
       "tech": "WordPress, JavaScript",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "wunder",
@@ -149,7 +149,7 @@
       "name": "The Wunder Project",
       "tech": "WordPress, JavaScript, eTapestry API",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "kriscarr",
@@ -157,7 +157,7 @@
       "name": "Kris Carr",
       "tech": "WordPress, JavaScript",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "myfm",
@@ -165,7 +165,7 @@
       "name": "My 103.9 FM Phoenix",
       "tech": "WordPress, JavaScript",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "hatch",
@@ -186,7 +186,7 @@
       "name": "Herman's House",
       "tech": "WordPress, JavaScript",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "bie",
@@ -194,7 +194,7 @@
       "name": "Beauty is Embarrassing",
       "tech": "WordPress, JavaScript",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "top100",
@@ -202,7 +202,7 @@
       "name": "Top Employer Summit",
       "tech": "WordPress, JavaScript",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "oakrun",
@@ -222,7 +222,7 @@
       "name": "BGHF",
       "tech": "WordPress",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "p2p",
@@ -230,7 +230,7 @@
       "name": "Pole To Pole Run",
       "tech": "WordPress",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "adlf",
@@ -238,7 +238,7 @@
       "name": "Aboriginal Day Live & Festival",
       "tech": "WordPress",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "allscreen",
@@ -246,7 +246,7 @@
       "name": "AllScreen Entertainment Inc.",
       "tech": "WordPress",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "blackstone",
@@ -254,7 +254,7 @@
       "name": "Blackstone",
       "tech": "WordPress",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "csd",
@@ -262,7 +262,7 @@
       "name": "Crazy Sexy Diet",
       "tech": "WordPress",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "last_mountain",
@@ -270,7 +270,7 @@
       "name": "The Last Mountain Movie",
       "tech": "WordPress",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
       "key": "restrepo",
@@ -278,7 +278,7 @@
       "name": "Restrepo",
       "tech": "PHP",
       "notes":
-        "<a href=\"http://www.theyinspire.com\" target=\"_blank\">They Integrated</a> "
+        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     }
   ]
 }
