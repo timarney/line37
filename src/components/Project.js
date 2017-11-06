@@ -11,8 +11,8 @@ class Project extends Component {
   render() {
     const { item, data, img } = this.props;
     return (
-      <section className="project" style={{ maxWidth: "700px", marginTop: "30px" }}>
-        <figure style={{ margin: "15px 20px" }}>
+      <section className="project">
+        <figure className="project-wrap">
           <a target="_blank" href={item.url}>
             <Img
               style={{ display: `inherit` }}

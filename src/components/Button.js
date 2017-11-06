@@ -11,7 +11,6 @@ class StyledButton extends Component {
             textDecoration: "none",
             borderRadius: "2px",
             padding: "12px 20px",
-            marginLeft: "50px",
             lineHeight: "12px",
             display: "inline-block",
             verticalAlign: "text-top",

@@ -25,36 +25,15 @@ const IndexPage = d => {
 
   return (
     <div>
-      <div
-        style={{
-          margin: "0 auto",
-          maxWidth: 960,
-          padding: "0px 1.0875rem 1.45rem",
-          paddingTop: 0
-        }}
-      >
-        <div
-          style={{
-            paddingLeft: "30px",
-            paddingBottom: "1px",
-            width: "80%",
-            margin: "0 auto"
-          }}
-        >
-          <div
-            style={{
-              display: "flex",
-              flexDirection: "row",
-              justifyContent: "space-between",
-              position: "relative"
-            }}
-          >
+      <div className="wrapper">
+        <div className="main-text-wrap">
+          <div className="main-text">
             <LineNumbers />
             <div>
               <h2 style={{ marginBottom: "10px" }}>I AM A DEVELOPER</h2>
               <span
+                className="keyline"
                 style={{
-                  display: "block",
                   margin: "15px 0px",
                   width: "60px",
                   height: "2px",
