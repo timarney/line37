@@ -11,7 +11,7 @@ const pData = require("../../serve/data.json");
 function findNode(images, key) {
   let l = "";
   images.forEach((el, index) => {
-    let oName = images[index].node.resolutions.originalName;
+    let oName = images[index].node.sizes.originalName;
     if (oName === `${key}.jpg`) {
       l = images[index].node;
     }
@@ -110,16 +110,6 @@ export const query = graphql`
       edges {
         node {
           id
-          resolutions(width: 1200, quality: 70) {
-            aspectRatio
-            width
-            height
-            src
-            srcSet
-            srcWebp
-            srcSetWebp
-            originalName
-          }
           sizes {
             base64
             aspectRatio

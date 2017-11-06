@@ -17,7 +17,6 @@ class Project extends Component {
             <Img
               style={{ display: `inherit` }}
               className="project-img project-shadow"
-              resolutions={img.resolutions}
               sizes={img.sizes}
             />
           </a>
