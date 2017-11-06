@@ -110,6 +110,9 @@ export const query = graphql`
       edges {
         node {
           id
+          resize(width: 560, height: 373) {
+            originalName
+          }
           sizes {
             base64
             aspectRatio
@@ -126,46 +129,5 @@ export const query = graphql`
     }
   }
 `;
-
-/*
-{
-  
-  allImageSharp {
-    edges {
-      node {
-        id
-        resolutions(width: 10, height: 10) {
-          originalName
-          aspectRatio
-          width
-          height
-          src
-          srcSet
-          srcWebp
-          srcSetWebp
-          originalName
-        }
-      }
-    }
-  }
-}
-
-*/
-
-/*
-export const query = graphql`
-  query GatsbyImageSampleQuery {
-    file(relativePath: { eq: "bie.jpg" }) {
-      childImageSharp {
-        # Specify the image processing steps right in the query
-        # Makes it trivial to update as your page's design changes.
-        resolutions(width: 125, height: 125) {
-          ...GatsbyImageSharpResolutions
-        }
-      }
-    }
-  }
-`;
-*/
 
 export default IndexPage;
