@@ -15,7 +15,7 @@ class StyledButton extends Component {
             display: "inline-block",
             verticalAlign: "text-top",
             fontFamily: "'Roboto', sans-serif",
-            fontSize: "0.8em"
+            fontSize: "0.9em"
           }}
           {...this.props}
         >

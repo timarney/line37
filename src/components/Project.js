@@ -13,7 +13,7 @@ class Project extends Component {
     return (
       <section className="project">
         <figure className="project-wrap">
-          <a title={item.name} href={item.url}>
+          <a title={item.name} href={item.url} rel="noopener">
             <Img
               style={{ display: `inherit` }}
               className="project-img project-shadow"
