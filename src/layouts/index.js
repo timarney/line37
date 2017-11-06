@@ -55,7 +55,9 @@ const TemplateWrapper = ({ children }) => (
           content: "_37,line37,developer,HTML,CSS,React,PHP,MySQL,WordPress"
         }
       ]}
-    />
+    >
+      <html lang="en" />
+    </Helmet>
     <Header />
     {children()}
     <Footer />
