@@ -13,6 +13,7 @@ module.exports = {
       }
     },
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
