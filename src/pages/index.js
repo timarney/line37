@@ -105,15 +105,12 @@ const IndexPage = d => {
 };
 
 export const query = graphql`
-  query GatsbyImageSampleQuery {
+  query GatsbyImageQuery {
     allImageSharp {
       edges {
         node {
           id
-          resize(width: 560, height: 373) {
-            originalName
-          }
-          sizes {
+          sizes(maxWidth: 560) {
             base64
             aspectRatio
             src
@@ -121,7 +118,6 @@ export const query = graphql`
             srcWebp
             srcSetWebp
             sizes
-            originalImg
             originalName
           }
         }
