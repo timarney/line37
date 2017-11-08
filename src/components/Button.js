@@ -9,7 +9,6 @@ class StyledButton extends Component {
           className="btn"
           style={{
             textDecoration: "none",
-            borderRadius: "2px",
             padding: "12px 20px",
             lineHeight: "12px",
             display: "inline-block",

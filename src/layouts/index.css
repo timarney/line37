@@ -345,19 +345,23 @@ ul.custom-bullet > li:before {
   transition: all 1s ease;
 }
 
-.social-icons a:hover svg path{
+.social-icons a:hover svg path {
   fill: rgb(95, 206, 177);
 }
 
 .btn {
   color: #fff;
-  background-color: #036347;
-  transition: all 1s ease;
+  background-color: #ff0090;
+  transition: all 0.2s ease;
   margin-bottom: 10px;
+  box-shadow: -5px 5px 0 rgba(0, 0, 0, 0.12);
+  border-radius: 3em;
 }
 
 .btn:hover {
-  transform: translateY(-2px);
+  background-color: #ff00c8;
+  transform: translateY(-1px);
+  box-shadow: -8px 8px 0 rgba(0, 0, 0, 0.1);
 }
 
 .wrapper {
