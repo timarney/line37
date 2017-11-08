@@ -66,7 +66,14 @@ const IndexPage = d => {
           </p>
           <h2 style={{ fontSize: "0.9em" }}>Core Skills</h2>
           <Skills />
-          <Social />
+        </div>
+      </div>
+
+      <div className="social-bkd">
+        <div className="wrapper">
+          <div className="main-text-wrap">
+            <Social />
+          </div>
         </div>
       </div>
 
