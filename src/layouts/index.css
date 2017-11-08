@@ -345,7 +345,7 @@ ul.custom-bullet > li:before {
   transition: all 1s ease;
 }
 
-.social-icons a:hover svg path {
+.social-icons a:hover svg path{
   fill: rgb(95, 206, 177);
 }
 
