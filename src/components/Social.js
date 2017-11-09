@@ -3,9 +3,13 @@ import React, { Component } from "react";
 class Social extends Component {
   state = {};
   render() {
+    const { isVisible } = this.props;
+
+    const classes = isVisible ? "is-visible" : "not-visible";
+
     return (
       <ul
-        className="social-icons"
+        className={`social-icons ${classes}`}
         style={{
           display: "flex",
           justifyContent: "space-between",

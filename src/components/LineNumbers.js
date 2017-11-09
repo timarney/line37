@@ -4,7 +4,6 @@ class LineNumbers extends Component {
   state = {};
   render() {
     const nums = Array.from(new Array(38), (x, i) => i + 1).splice(24);
-
     return (
       <ul
         className="lines"
@@ -22,7 +21,7 @@ class LineNumbers extends Component {
           left: -70,
           top: -10,
           margin: 0,
-          paddingLeft: 0,
+          paddingLeft: 0
         }}
       >
         {nums.map(i => {

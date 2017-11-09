@@ -339,14 +339,23 @@ ul.custom-bullet > li:before {
 
 .social-icons a {
   display: inline-block;
+  transition: all 0.5s ease;
+}
+
+.social-icons a:hover {
+  transform: scale(1.1);
+}
+
+.social-icons.not-visible a svg path {
+  fill: #ccc;
 }
 
 .social-icons a svg path {
-  transition: all 1s ease;
+  transition: all 0.5s ease;
 }
 
 .social-icons a:hover svg path {
-  fill: rgb(95, 206, 177);
+  fill: #ff0090;
 }
 
 .btn {

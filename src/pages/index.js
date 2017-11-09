@@ -1,10 +1,14 @@
 import React from "react";
 import Link from "gatsby-link";
-import StyledButton from "../components/Button";
-import LineNumbers from "../components/LineNumbers";
-import Project from "../components/Project";
-import Skills from "../components/Skills";
-import Social from "../components/Social";
+import {
+  StyledButton,
+  LineNumbers,
+  Project,
+  Skills,
+  Social
+} from "../components";
+
+import TrackVisibility from "react-on-screen";
 
 const pData = require("../../serve/data.json");
 
@@ -72,7 +76,9 @@ const IndexPage = d => {
       <div className="social-bkd">
         <div className="wrapper">
           <div className="main-text-wrap">
-            <Social />
+            <TrackVisibility>
+              <Social />
+            </TrackVisibility>
           </div>
         </div>
       </div>

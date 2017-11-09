@@ -13,7 +13,8 @@
     "gatsby-remark-images": "^1.5.30",
     "gatsby-source-filesystem": "^1.5.7",
     "gatsby-transformer-remark": "^1.7.19",
-    "gatsby-transformer-sharp": "^1.6.13"
+    "gatsby-transformer-sharp": "^1.6.13",
+    "react-on-screen": "^2.0.0"
   },
   "keywords": [
     "gatsby"
