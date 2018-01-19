@@ -53,20 +53,17 @@ const IndexPage = d => {
             </StyledButton>
           </div>
           <p>
-            Looking for help with a small script or have a project and don't
-            know where to start? I can help.
+            Not sure where to start on a project (big or small)? We are here to help.
           </p>
           <p>
-            My goal is to get you where you want to go. Learning, planning,
-            teaching, building - it's all a part of getting you what you need.
-            My work is based on a simple concept - "First, solve the problem.
-            Then, make things work".
+            We strive to create flexible, intuitive, accessible websites and apps for our clients
+            that stand the test of time. Whether a project is big or small, needs a programmer or designer (or both);
+            our team of experts are here to make your ideas come to fruition.
           </p>
           <p>
-            With over 15 years of development experience working with digital
-            agencies and clients directly, I have a strong understanding of the
-            entire project life-cycle. I bring vision, coherence, and experience
-            every step of the way.
+            Working with our clients over the past 15 years, we've had the privilege
+            of creating functional, beautiful digital solutions. Throughout an entire
+            project life-cyle, we take the care and time to ensure our work aligns with our clients best interests.
           </p>
           <h2 style={{ fontSize: "0.9em" }}>Core Skills</h2>
           <Skills />
