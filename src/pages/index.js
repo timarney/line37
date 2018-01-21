@@ -34,7 +34,7 @@ const IndexPage = d => {
           <div className="main-text">
             <LineNumbers />
             <div>
-              <h2 style={{ marginBottom: "10px" }}>I AM A DEVELOPER</h2>
+              <h2 style={{ marginBottom: "10px" }}>ABOUT</h2>
               <span
                 className="keyline"
                 style={{
