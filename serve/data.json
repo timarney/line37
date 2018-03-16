@@ -39,6 +39,22 @@
         "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
     },
     {
+      "key": "cfoffice",
+      "url": "https://www.cfoffice.ca",
+      "featured": "true",
+      "name": "Cadillac Fairview Office Leasing",
+      "tech": "React, Code Igniter, PHP",
+      "notes":
+        "<a href=\"http://famousfolks.ca\" title=\"Famous Folks\" rel=\"noopener\" target=\"_blank\">Famous Folks</a> "
+    },
+    {
+      "key": "wysiwygco",
+      "url": "https://wysiwygco.com",
+      "featured": "true",
+      "name": "The WYSIWYG Co",
+      "tech": "WordPress, JavaScript"
+    },
+    {
       "key": "agphotos",
       "url": "http://photos.agwaymetals.com/",
       "featured": "true",
