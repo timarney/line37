@@ -63,7 +63,7 @@ const IndexPage = d => {
           <p>
             Working with our clients over the past 15 years, we've had the privilege
             of creating functional, beautiful digital solutions. Throughout an entire
-            project life-cyle, we take the care and time to ensure our work aligns with our clients best interests.
+            project lifecycle, we take the care and time to ensure our work aligns with our clients best interests.
           </p>
           <h2 style={{ fontSize: "0.9em" }}>Core Skills</h2>
           <Skills />
