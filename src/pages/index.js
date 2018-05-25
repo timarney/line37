@@ -47,9 +47,9 @@ const IndexPage = d => {
             </div>
             <StyledButton
               href="https://goo.gl/forms/NUfwwXunABrTBW522"
-              title="Available For Hire"
+              title="Contact"
             >
-              Available For Hire
+              Contact
             </StyledButton>
           </div>
           <p>
