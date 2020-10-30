@@ -36,7 +36,7 @@ const Header = () => (
 
 const Footer = () => (
   <div style={{ display: "flex", justifyContent: "center", marginTop: 20 }}>
-    <div style={{ marginBottom: "50px" }}>© 2017 line37 Digital Inc.</div>
+    <div style={{ marginBottom: "50px" }}>© line37 Digital Inc.</div>
   </div>
 );
 
