@@ -1,225 +1,199 @@
 {
-  "projects": [
-    {
-      "key": "aca",
-      "url":
-        "http://architects.agwaymetals.com/agricultural-colour-application/#/panel/colours/diamond-rib/century-rib/dark-red/green/white-white/a/?_k=z0uoiu",
-      "featured": "true",
-      "name": "Agway Colour Application",
-      "tech": "React, Redux",
-      "notes": "Glassroot Creative Media"
-    },
-
-    {
-      "key": "tulemar",
-      "url":
-        "https://tulemar.com/properties/?adlink=true&ptype=private&price_period=week",
-      "featured": "true",
-      "name": "Tulemar",
-      "tech": "React",
-      "notes":
-        "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    },
-    {
-      "key": "rf",
-      "url": "http://rockingfit.com",
-      "featured": "true",
-      "name": "Rocking Fit",
-      "tech": "WordPress, JavaScript",
-      "notes":
-        "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    },
-    {
-      "key": "hsgo",
-      "url": "https://hsgo.ca",
-      "featured": "true",
-      "name": "HollywoodSuite GO",
-      "tech": "WordPress, Akamai, JavaScript",
-      "notes":
-        "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    },
-    {
-      "key": "cfoffice",
-      "url": "https://www.cfoffice.ca",
-      "featured": "true",
-      "name": "Cadillac Fairview Office Leasing",
-      "tech": "React, Code Igniter, PHP",
-      "notes":
-        "<a href=\"http://famousfolks.ca\" title=\"Famous Folks\" rel=\"noopener\" target=\"_blank\">Famous Folks</a> "
-    },
-    {
-      "key": "wysiwygco",
-      "url": "https://wysiwygco.com",
-      "featured": "true",
-      "name": "The WYSIWYG Co",
-      "tech": "WordPress, JavaScript"
-    },
-    {
-      "key": "agphotos",
-      "url": "http://photos.agwaymetals.com/",
-      "featured": "true",
-      "name": "Agway Metals Photos",
-      "tech": "React",
-      "notes": "Glassroot Creative Media"
-    },
-    {
-      "key": "ona",
-      "url": "https://ontariosnuclearadvantage.com",
-      "featured": "true",
-      "name": "Ontario's Nuclear Advantage",
-      "tech": "WordPress, JavaScript",
-      "notes":
-        "<a href=\"http://bigredoak.com\" title=\"Big Red Oak\" rel=\"noopener\" target=\"_blank\">Big Red Oak</a> "
-    },
-
-    {
-      "key": "p2024",
-      "url": "http://pickering2024.com",
-      "featured": "true",
-      "name": "Pickering 2024",
-      "tech": "WordPress, JavaScript",
-      "notes":
-        "<a href=\"http://bigredoak.com\" title=\"Big Red Oak\" rel=\"noopener\" target=\"_blank\">Big Red Oak</a> "
-    },
-
-    {
-      "key": "qac",
-      "url": "http://quinteartscouncil.org",
-      "name": "Quinte Arts Council",
-      "tech": "WordPress, Stripe, JavaScript",
-      "notes":
-        "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    },
-    {
-      "key": "bionx",
-      "url": "http://ridebionx.com/dealers",
-      "name": "Bionx",
-      "tech": "WordPress, JavaScript, Ember",
-      "notes":
-        "<a href=\"http://www.tenfootstudios.com\" title=\"Ten Foot Studios\" rel=\"noopener\" target=\"_blank\">Ten Foot Studios</a> "
-    },
-    {
-      "key": "hws",
-      "url": "http://hollywoodsuite.ca",
-      "name": "HollywoodSuite",
-      "tech": "WordPress, BroadView, JavaScript",
-      "notes":
-        "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    },
-    {
-      "key": "katie",
-      "url": "http://katiecouric.com",
-      "name": "Katie Couric",
-      "tech": "WordPress, JavaScript",
-      "notes":
-        "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    },
-    {
-      "key": "lsc",
-      "url": "http://www.leadingspasofcanada.com/",
-      "name": "Leading Spas of Canada",
-      "tech": "WordPress, HTML, CSS, JavaScript",
-      "notes":
-        "<a href=\"http://tenfootstudios.com\" title=\"Tewn Foot Studios\" rel=\"noopener\" target=\"_blank\">Ten Foot Studios</a> "
-    },
-    {
-      "key": "savvy",
-      "url": "#",
-      "name": "Brittany Deal",
-      "tech": "WordPress, JavaScript",
-      "notes":
-        "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    },
-    {
-      "key": "rocco",
-      "url": "http://www.davidrocco.com",
-      "name": "David Rocco",
-      "tech": "WordPress, JavaScript",
-      "notes":
-        "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    },
-    {
-      "key": "tony-wrighton",
-      "url": "http://tonywrighton.com",
-      "name": "Tony Wrighton",
-      "tech": "WordPress, s2 Member, JavaScript",
-      "notes":
-        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    },
-    {
-      "key": "candice-kumai",
-      "url": "http://www.candicekumai.com",
-      "name": "Candice Kumai",
-      "tech": "WordPress, JavaScript",
-      "notes":
-        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    },
-    {
-      "key": "kriscarr",
-      "url": "http://kriscarr.com/",
-      "name": "Kris Carr",
-      "tech": "WordPress, JavaScript",
-      "notes":
-        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    },
-    {
-      "key": "dcaa",
-      "url": "http://dcaa.ca",
-      "name": "DCAA",
-      "tech": "HTML, CSS, JavaScript, WordPress"
-    },
-    {
-      "key": "hermans-house",
-      "url": "http://hermanshousethefilm.com",
-      "featured": "false",
-      "name": "Herman's House",
-      "tech": "WordPress, JavaScript",
-      "notes":
-        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    },
-    {
-      "key": "oakrun",
-      "url": "http://www.oakrun.com",
-      "name": "Oakrun Farm Bakery",
-      "tech": "HTML, CSS, JavaScript, WordPress"
-    },
-    {
-      "key": "gb",
-      "url": "http://www.gourmetbaker.com",
-      "name": "Gourmet Baker",
-      "tech": "HTML, CSS, JavaScript, WordPress"
-    },
-    {
-      "key": "bghf",
-      "url": "http://bghf.ca/",
-      "name": "BGHF",
-      "tech": "WordPress",
-      "notes":
-        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    },
-    {
-      "key": "adlf",
-      "url": "#",
-      "name": "Aboriginal Day Live & Festival",
-      "tech": "WordPress",
-      "notes":
-        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    },
-    {
-      "key": "blackstone",
-      "url": "http://www.aptn.ca/pages/blackstone",
-      "name": "Blackstone",
-      "tech": "WordPress",
-      "notes":
-        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    },
-    {
-      "key": "restrepo",
-      "url": "http://restrepothemovie.com",
-      "name": "Restrepo",
-      "tech": "PHP",
-      "notes":
-        "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
-    }
-  ]
+    "projects": [
+        {
+            "key": "aca",
+            "url": "http://architects.agwaymetals.com/agricultural-colour-application/#/panel/colours/diamond-rib/century-rib/dark-red/green/white-white/a/?_k=z0uoiu",
+            "featured": "true",
+            "name": "Agway Colour Application",
+            "tech": "React, Redux",
+            "notes": "Glassroot Creative Media"
+        },
+        {
+            "key": "tulemar",
+            "url": "https://tulemar.com/properties/?adlink=true&ptype=private&price_period=week",
+            "featured": "true",
+            "name": "Tulemar",
+            "tech": "React",
+            "notes": "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        },
+        {
+            "key": "rf",
+            "url": "http://rockingfit.com",
+            "featured": "true",
+            "name": "Rocking Fit",
+            "tech": "WordPress, JavaScript",
+            "notes": "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        },
+        {
+            "key": "hsgo",
+            "url": "https://hsgo.ca",
+            "featured": "true",
+            "name": "HollywoodSuite GO",
+            "tech": "WordPress, Akamai, JavaScript",
+            "notes": "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        },
+        {
+            "key": "cfoffice",
+            "url": "https://www.cfoffice.ca",
+            "featured": "true",
+            "name": "Cadillac Fairview Office Leasing",
+            "tech": "React, Code Igniter, PHP",
+            "notes": "<a href=\"http://famousfolks.ca\" title=\"Famous Folks\" rel=\"noopener\" target=\"_blank\">Famous Folks</a> "
+        },
+        {
+            "key": "wysiwygco",
+            "url": "https://wysiwygco.com",
+            "featured": "true",
+            "name": "The WYSIWYG Co",
+            "tech": "WordPress, JavaScript"
+        },
+        {
+            "key": "agphotos",
+            "url": "http://photos.agwaymetals.com/",
+            "featured": "true",
+            "name": "Agway Metals Photos",
+            "tech": "React",
+            "notes": "Glassroot Creative Media"
+        },
+        {
+            "key": "ona",
+            "url": "https://ontariosnuclearadvantage.com",
+            "featured": "true",
+            "name": "Ontario's Nuclear Advantage",
+            "tech": "WordPress, JavaScript",
+            "notes": "<a href=\"http://bigredoak.com\" title=\"Big Red Oak\" rel=\"noopener\" target=\"_blank\">Big Red Oak</a> "
+        },
+        {
+            "key": "p2024",
+            "url": "http://pickering2024.com",
+            "featured": "true",
+            "name": "Pickering 2024",
+            "tech": "WordPress, JavaScript",
+            "notes": "<a href=\"http://bigredoak.com\" title=\"Big Red Oak\" rel=\"noopener\" target=\"_blank\">Big Red Oak</a> "
+        },
+        {
+            "key": "qac",
+            "url": "http://quinteartscouncil.org",
+            "name": "Quinte Arts Council",
+            "tech": "WordPress, Stripe, JavaScript",
+            "notes": "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        },
+        {
+            "key": "bionx",
+            "url": "http://ridebionx.com/dealers",
+            "name": "Bionx",
+            "tech": "WordPress, JavaScript, Ember",
+            "notes": "<a href=\"http://www.tenfootstudios.com\" title=\"Ten Foot Studios\" rel=\"noopener\" target=\"_blank\">Ten Foot Studios</a> "
+        },
+        {
+            "key": "hws",
+            "url": "http://hollywoodsuite.ca",
+            "name": "HollywoodSuite",
+            "tech": "WordPress, BroadView, JavaScript",
+            "notes": "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        },
+        {
+            "key": "katie",
+            "url": "http://katiecouric.com",
+            "name": "Katie Couric",
+            "tech": "WordPress, JavaScript",
+            "notes": "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        },
+        {
+            "key": "lsc",
+            "url": "http://www.leadingspasofcanada.com/",
+            "name": "Leading Spas of Canada",
+            "tech": "WordPress, HTML, CSS, JavaScript",
+            "notes": "<a href=\"http://tenfootstudios.com\" title=\"Tewn Foot Studios\" rel=\"noopener\" target=\"_blank\">Ten Foot Studios</a> "
+        },
+        {
+            "key": "savvy",
+            "url": "#",
+            "name": "Brittany Deal",
+            "tech": "WordPress, JavaScript",
+            "notes": "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        },
+        {
+            "key": "rocco",
+            "url": "http://www.davidrocco.com",
+            "name": "David Rocco",
+            "tech": "WordPress, JavaScript",
+            "notes": "<a href=\"http://workwiththey.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        },
+        {
+            "key": "tony-wrighton",
+            "url": "http://tonywrighton.com",
+            "name": "Tony Wrighton",
+            "tech": "WordPress, s2 Member, JavaScript",
+            "notes": "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        },
+        {
+            "key": "candice-kumai",
+            "url": "http://www.candicekumai.com",
+            "name": "Candice Kumai",
+            "tech": "WordPress, JavaScript",
+            "notes": "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        },
+        {
+            "key": "kriscarr",
+            "url": "http://kriscarr.com/",
+            "name": "Kris Carr",
+            "tech": "WordPress, JavaScript",
+            "notes": "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        },
+        {
+            "key": "dcaa",
+            "url": "http://dcaa.ca",
+            "name": "DCAA",
+            "tech": "HTML, CSS, JavaScript, WordPress"
+        },
+        {
+            "key": "hermans-house",
+            "url": "http://hermanshousethefilm.com",
+            "featured": "false",
+            "name": "Herman's House",
+            "tech": "WordPress, JavaScript",
+            "notes": "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        },
+        {
+            "key": "oakrun",
+            "url": "http://www.oakrun.com",
+            "name": "Oakrun Farm Bakery",
+            "tech": "HTML, CSS, JavaScript, WordPress"
+        },
+        {
+            "key": "gb",
+            "url": "http://www.gourmetbaker.com",
+            "name": "Gourmet Baker",
+            "tech": "HTML, CSS, JavaScript, WordPress"
+        },
+        {
+            "key": "bghf",
+            "url": "http://bghf.ca/",
+            "name": "BGHF",
+            "tech": "WordPress",
+            "notes": "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        },
+        {
+            "key": "adlf",
+            "url": "#",
+            "name": "Aboriginal Day Live & Festival",
+            "tech": "WordPress",
+            "notes": "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        },
+        {
+            "key": "blackstone",
+            "url": "http://www.aptn.ca/pages/blackstone",
+            "name": "Blackstone",
+            "tech": "WordPress",
+            "notes": "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        },
+        {
+            "key": "restrepo",
+            "url": "http://restrepothemovie.com",
+            "name": "Restrepo",
+            "tech": "PHP",
+            "notes": "<a href=\"http://www.theyinspire.com\" title=\"Work With They\" rel=\"noopener\" target=\"_blank\">They Integrated</a> "
+        }
+    ]
 }
