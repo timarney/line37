@@ -45,12 +45,6 @@ const IndexPage = d => {
                 }}
               />
             </div>
-            <StyledButton
-              href="https://goo.gl/forms/NUfwwXunABrTBW522"
-              title="Contact"
-            >
-              Contact
-            </StyledButton>
           </div>
           <p>
             Not sure where to start on a project (big or small)? We are here to help.
